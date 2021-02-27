@@ -1,0 +1,60 @@
+{
+    "@@locale": "en",
+
+
+    "themeMode": "Darkmode",
+    "@themeMode": {
+        "description": "Button text for theme picker"
+    },
+
+    "chooseCalendar": "Choose calendar",
+    "@chooseCalendar": {
+        "description": "Button text for calendar picker"
+    },
+
+    "titleHint": "Add title",
+    "@titleHint": {
+        "description": "Hint text for title form field"
+    },
+
+    "bodyHint": "Add description...",
+    "@bodyHint": {
+        "description": "Hint text for body form field"
+    },
+
+    "requiredField": "Required",
+    "@requiredField": {
+        "description": "Validator text for required fields"
+    },
+
+    "exceedingLength": "Exceeding length, max: {maxLength}",
+    "@exceedingLength": {
+        "description": "Validator text for fields exceeding maximum length",
+        "placeholders": {
+            "maxLength": {
+                "type": "int",
+                "format": "compactLong"
+            }
+        }
+    },
+
+    "calendarPageTitle": "Events",
+    "@calendarPageTitle": {
+        "description": "Title of calendar page"
+    },
+
+    "habitsPageTitle": "Habits",
+    "@habitsPageTitle": {
+        "description": "Title of habits page"
+    },
+
+    "statsPageTitle": "Stats",
+    "@statsPageTitle": {
+        "description": "Title of stats page"
+    },
+
+    "comingSoon": "Coming Soon",
+    "@comingSoon": {
+        "description": "Placeholder text for features that are coming soon"
+    }
+}
