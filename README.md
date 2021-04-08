@@ -1,8 +1,5 @@
 # Aikoa
-A minimilastic productivity app that embraces the timeboxing method. We (Mathias Leppmeier and Jan Brunckhorst)
-created this app to learn app development with Flutter.
-
-If you want to read more about our learnings from building our first app as a side project, check out our Medium Article
+A minimilastic productivity app that embraces the timeboxing method. We created this app to learn app development with Flutter. If you want to read more about our learnings from building our first app as a side project, check out our Medium Article
 [3 Lessons Learned From Building an App](https://medium.com/@jan.brunckhorst/lessons-learned-from-building-an-app-8c39f66a75d0).
 
 ![Image](images/Aikoa_iOS.png)
@@ -22,8 +19,8 @@ If you want to read more about our learnings from building our first app as a si
 - Minimalistic one page overview
 
 ## Authors
-- Jan Brunckhorst (@neuencer)
-- Mathias Leppmeier (@mleppmeier)
+- [Jan Brunckhorst](https://github.com/orgs/betasOnly/people/neuencer)
+- [Mathias Leppmeier](https://github.com/orgs/betasOnly/people/mleppmeier)
 
 <p align="center">
     <a href="https://www.buymeacoffee.com/betasonly"><img src="images/buy-me-a-coffee-badge.png" width="200"></img></a>
